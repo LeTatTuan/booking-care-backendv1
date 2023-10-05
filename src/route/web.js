@@ -6,7 +6,6 @@ import patientController from '../controllers/patientController.js';
 import specialtyController from '../controllers/specialtyController.js';
 import clinicController from '../controllers/clinicController.js';
 
-
 let router = express.Router();
 
 let initWebRoutes = (app) => {
